@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![GitHub Streak](https://streak-stats.demolab.com?user=DimitarDiddyDimitrov&theme=calm-pink&mode=weekly&card_width=500&card_height=200)](https://git.io/streak-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DimitarDiddyDimitrov&theme=calm-pink)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DimitarDiddyDimitrov&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
