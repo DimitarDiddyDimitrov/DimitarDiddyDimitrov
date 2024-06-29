@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 [![GitHub Streak](https://streak-stats.demolab.com?user=DimitarDiddyDimitrov&theme=calm-pink&mode=weekly&card_width=500&card_height=200)](https://git.io/streak-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DimitarDiddyDimitrov&theme=calm_pink)](https://github.com/anuraghazra/github-readme-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=YOUR_USERNAME&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=DimitarDiddyDimitrov&layout=compact&theme=radical)
